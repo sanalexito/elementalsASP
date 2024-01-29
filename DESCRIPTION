@@ -1,0 +1,13 @@
+Package: ElementalsASP
+Title: Functions collection to make INEGI tabulations
+Version: 0.0.0.1
+Authors@R: 
+    person("Alejandro", "Sánchez Peralta", , "alejandro.peralta@inegi.org.mx", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package contains the main functions to calculate the tabulations of many surveys of the INEGI.
+             All of them allow the user obtain the basic form of the oficial figures.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
